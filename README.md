@@ -3,7 +3,6 @@ For people who want to scrap the product name and the price of Walmart's online 
 Especially convenient when you are splitting the order with others.<br>
 This script will automatically take off the unavailable products and the substitutions will be included.<br><br>
 ---<br><br>
-Tutorial:<br>
 <strong>Step 1:</strong><br>
 Press: Login -> My account -> My orders<br>
 <img src="https://github.com/tsangkafu/Walmart-Order-Scraper/blob/main/Step%201.png?raw=true" width="500"><br>
