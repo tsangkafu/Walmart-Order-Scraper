@@ -5,7 +5,10 @@ This script will automatically take off the unavailable products and the substit
 ---<br>
 Tutorial:<br>
 Step 1: Press: Login -> My account -> My orders<br>
-<img src="https://github.com/tsangkafu/Walmart-Order-Scraper/blob/main/Step%201.png?raw=true">
+<img src="https://github.com/tsangkafu/Walmart-Order-Scraper/blob/main/Step%201.png?raw=true" width="500"><br>
 Step 2: Press: Manage order (to expand the order list)<br>
+<img src="https://github.com/tsangkafu/Walmart-Order-Scraper/blob/main/Step%202.png?raw=true" width="500"><br>
 Step 3: Press: See more (to expand the order list)<br>
+<img src="https://github.com/tsangkafu/Walmart-Order-Scraper/blob/main/Step%203.png?raw=true" width="500"><br>
 Step 4: Press: Ctrl + Shift + J (to open browser console); paste the code the press Enter.
+<img src="https://github.com/tsangkafu/Walmart-Order-Scraper/blob/main/Step%204.png?raw=true" width="500"><br>
