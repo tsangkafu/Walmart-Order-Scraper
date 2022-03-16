@@ -1,5 +1,3 @@
-// remove the unavilable items
-document.querySelector(`div[data-automation="unavailable-items"]`).parentNode.remove();
 // number of total items
 let numOfItem = document.querySelectorAll(`div[data-automation="item-card"] div > a`).length;
 
